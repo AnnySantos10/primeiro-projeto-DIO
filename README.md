@@ -4,7 +4,7 @@
 Criei uma imagem de cajueiro usando IA
 
 ## 🤖 Tecnologias Utilizadas
-Gemini: ( https://gemini.google.com/?hl=pt-BR)
+'Gemini': ( https://gemini.google.com/?hl=pt-BR)
 
 ## 🧐 Processo de Criação
 Utilizei o Gemini para criar uma imagem de um cajueiro com flores e frutos realista
